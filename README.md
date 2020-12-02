@@ -1,5 +1,7 @@
 # @harunonsystem のポートフォリオサイトのコピー
 
+<img src="https://github.com/higedamc/harunonportfolio/blob/master/screenshots/capture.png">
+
 - Vue.js => Nuxt.jsにリライトする試み
 - URL: https://www.harunon.work/
 
