@@ -56,7 +56,7 @@
         </div>
       </div>
     </div>
-    <h1 class="bg-white my-4 py-3 text-green-600">Skills</h1>
+    <h1 class="bg-white my-4 py-3 text-green-600 rounded">Skills</h1>
     <div class="mx-auto bg-white shadow-lg rounded-lg py-5">
       <div class="mb-1 tracking-wide px-4 py-4">
         <h2 class="text-gray-800 font-semibold mt-1">My Skills</h2>
