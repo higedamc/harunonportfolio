@@ -174,11 +174,10 @@
           </div>
         </div>
       </div>
-      <div class="w-full px-4">
-        <h3 class="font-medium tracking-tight">Review this item</h3>
-        <p class="text-gray-700 text-sm py-1 text-blue-400">
-          🥺Follow Me!🥺
-        </p>
+      
+    </div>
+    <div class="w-full px-4">
+        <h1 class="bg-white my-4 py-3 text-green-600 rounded">🥺Follow Me!🥺</h1>
         <!-- buttons 1 of 4 -->
         <div class="control has-icons-left px-6 py-4">
         <button
@@ -211,7 +210,6 @@
         </button>
         </div>
       </div>
-    </div>
   </div>
 </template>
 
